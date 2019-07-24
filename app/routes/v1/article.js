@@ -16,7 +16,7 @@ router.post('/',function(req,res){
     var data = {
         title : req.body.title,
         text : req.body.text,
-        // timestamp : moment()
+        timestamp : moment().toString()
     }
     ref.add(data)
         .then(ref=>{
