@@ -1,0 +1,27 @@
+{
+  "name": "express-jsonapi-test",
+  "version": "1.0.0",
+  "description": "expressを使ったjsonAPIの練習",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sho0126hiro/express-jsonAPI-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sho0126hiro/express-jsonAPI-test/issues"
+  },
+  "homepage": "https://github.com/sho0126hiro/express-jsonAPI-test#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.2.0",
+    "moment": "^2.24.0",
+    "mongodb": "^3.3.0-beta2",
+    "mongoose": "^5.6.6"
+  }
+}
