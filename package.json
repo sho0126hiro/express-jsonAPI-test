@@ -18,7 +18,7 @@
   "homepage": "https://github.com/sho0126hiro/express-jsonAPI-test#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase-admin": "^8.2.0",
     "moment": "^2.24.0",
     "mongodb": "^3.3.0-beta2",
